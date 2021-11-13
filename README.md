@@ -65,5 +65,4 @@ This project is a guide to NYC. It is a website that will help you find beaches,
 
 * Dont forget to use The Best New York City Guide as your reference when you're looking for a place to go in NYC!
 <br>
-****
-<img src="./asset/../assets/city_nt.png" alt="My Project GIF" width="1000" height="60">
+<img src="./asset/../assets/city_nt.png" alt="My Project GIF" width="1000" height="70">
