@@ -7,7 +7,7 @@ This project is a guide to NYC. It is a website that will help you find beaches,
 <br>
 <br>
 
-# Seting up the Environment
+# Setting up the Environment
 
 - On your Windows create a folder called `tbnycg_project` . You'll use this folder to store the app you will use.
 - `cd` into the `tbnycg_project` folder and run the following command in the terminal
